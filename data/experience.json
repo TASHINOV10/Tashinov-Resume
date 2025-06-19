@@ -33,7 +33,7 @@
     "startYear": 2023,
     "endYear": 2025,
     "skills": ["Python","SAS","SPSS","MySQL","VBA"],
-    "challenges": ["test"]
+    "challenges": "test"
   }
     
 ]
