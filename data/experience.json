@@ -1,0 +1,29 @@
+[
+  {
+    "company": "TechNova",
+    "role": "Frontend Developer",
+    "duration": "2022–2024",
+    "startYear": 2022,
+    "endYear": 2024,
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "challenges": ["Responsive redesign", "Accessibility improvement"]
+  },
+  {
+    "company": "DataPulse",
+    "role": "Intern",
+    "duration": "2021–2022",
+    "startYear": 2021,
+    "endYear": 2022,
+    "skills": ["Excel", "Communication"],
+    "challenges": ["UX testing", "Internal documentation"]
+  },
+  {
+    "company": "BlueLogic",
+    "role": "Junior Dev",
+    "duration": "2019–2021",
+    "startYear": 2019,
+    "endYear": 2021,
+    "skills": ["Git", "jQuery"],
+    "challenges": ["Migration support", "QA collaboration"]
+  }
+]

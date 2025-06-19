@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Tashinov – Experience</title>
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Tashinov.com</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="experience.html">Experience</a>
+      <a href="academics.html">Academics</a>
+      <a href="projects.html">Projects</a>
+    </nav>
+  </header>
+
+  <div class="summary-bar">
+    <div class="summary-cards">
+      <div class="summary-card">
+        <h3 id="exp-count">0</h3>
+        <p id="exp-label">Calculating experience...</p>
+      </div>
+      <div class="summary-card">
+        <h3 id="emp-count">0</h3>
+        <p id="emp-label">Calculating employers...</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="tab-list" id="tab-list"></div>
+    <div class="content">
+      <div id="tab-content"><p>Select a job to view more details.</p></div>
+    </div>
+  </div>
+
+  <script src="assets/js/experience.js"></script>
+</body>
+</html>
