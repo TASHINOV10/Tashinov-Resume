@@ -9,21 +9,21 @@
     "challenges": ["Provided frontline support to enterprise clients by coordinating timely solutions for hardware and software incidents", "Assigned onsite and remote engineeers baased on the complexity and yrgency of each case, ensuring rapid response and issue resolution.","Managed the end-to-end delivery pipeline by ordering replacement parts and aligning delivery schedules with engineer dispatches","Oversaw the logistical and operational flow so that parts would arrive precisely when engineers were onsite-minimizing downtime and maximizing customer satisfaction."]
   },
   {
-    "company": "DataPulse",
-    "role": "Intern",
-    "duration": "2021–2022",
+    "company": "MSCI(Burgiss)",
+    "role": "Senior Financial Analyst",
+    "duration": "2021–2023",
     "startYear": 2021,
-    "endYear": 2022,
-    "skills": ["Excel", "Communication"],
-    "challenges": ["UX testing", "Internal documentation"]
+    "endYear": 2023,
+    "skills": ["Excel", "Communication","Python","VBA","Time Management", "Mentoring"],
+    "challenges": ["Conducted detailed analysis of private equity fund documentation, including performance reports, investment profiles, and fund structures.", "Built custom management tools and automated reporting processes using Excel and VBA, reducing manual workload and increasing accuracy.","Designed time series models to track document ingestion rates and forecast operational bottlenecks.", "Led MSCI’s Summer Internship Program: managed a team of six interns, conducted candidate interviews, and oversaw project deliverables and mentoring." ]
   },
   {
-    "company": "BlueLogic",
-    "role": "Junior Dev",
-    "duration": "2019–2021",
-    "startYear": 2019,
-    "endYear": 2021,
-    "skills": ["Git", "jQuery"],
-    "challenges": ["Migration support", "QA collaboration"]
+    "company": "PostBank",
+    "role": "Data Engineer",
+    "duration": "2023–2025",
+    "startYear": 2023,
+    "endYear": 2025,
+    "skills": ["Python","SAS","SPSS","MySQL","VBA"],
+    "challenges": ["Maintained and optimized legacy data pipeline infrastructure to ensure reliability and continuity of reporting operations.", "Contributed to the implementation of a credit risk assessment methodology, including the use of Monte Carlo simulations to model potential profit scenarios for banking clients."]
   }
 ]
