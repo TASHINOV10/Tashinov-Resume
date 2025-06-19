@@ -1,12 +1,12 @@
 [
   {
-    "company": "TechNova",
-    "role": "Frontend Developer",
-    "duration": "2022–2024",
-    "startYear": 2022,
-    "endYear": 2024,
-    "skills": ["HTML", "CSS", "JavaScript"],
-    "challenges": ["Responsive redesign", "Accessibility improvement"]
+    "company": "HPE",
+    "role": "Support Specialist",
+    "duration": "2020-2021",
+    "startYear": 2020,
+    "endYear": 2021,
+    "skills": ["Excel"],
+    "challenges": ["Provided frontline support to enterprise clients by coordinating timely solutions for hardware and software incidents", "Assigned onsite and remote engineeers baased on the complexity and yrgency of each case, ensuring rapid response and issue resolution.","Managed the end-to-end delivery pipeline by ordering replacement parts and aligning delivery schedules with engineer dispatches","Oversaw the logistical and operational flow so that parts would arrive precisely when engineers were onsite-minimizing downtime and maximizing customer satisfaction."]
   },
   {
     "company": "DataPulse",
