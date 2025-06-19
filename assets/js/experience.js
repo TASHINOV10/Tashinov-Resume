@@ -1,4 +1,4 @@
-fetch('assets/data/experience.json')
+fetch('data/experience.json')
   .then(response => {
     if (!response.ok) {
       throw new Error('Network response was not ok');
