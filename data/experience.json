@@ -25,5 +25,13 @@
     "endYear": 2025,
     "skills": ["Python","SAS","SPSS","MySQL","VBA"],
     "challenges": ["Maintained and optimized legacy data pipeline infrastructure to ensure reliability and continuity of reporting operations.", "Contributed to the implementation of a credit risk assessment methodology, including the use of Monte Carlo simulations to model potential profit scenarios for banking clients."]
-  }
+  },
+  {
+    "company": "test",
+    "role": "Data Engineer",
+    "duration": "2023–2025",
+    "startYear": 2023,
+    "endYear": 2025,
+    "skills": ["Python","SAS","SPSS","MySQL","VBA"],
+    "challenges": ["test"]
 ]
